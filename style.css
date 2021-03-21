@@ -1,0 +1,47 @@
+header {
+    background-color:rgb(180, 125, 233);
+}
+body {
+    font-family:sans-serif;
+}
+header h1 {             
+    text-align:center;
+}
+
+header img {
+     width:100px;
+     height:100px;
+     padding:10px;
+}
+img {
+    border: solid 2px rgb(180, 125, 233);
+    width:500px;
+     height:600px;
+}
+
+table{
+    border:2px solid rgb(180, 125, 233) ;
+
+}
+td {
+    border:2px solid rgb(180, 125, 233) ;
+}
+tr {
+    border-collapse:collapse;
+}
+p {
+    font-size:20px;
+}
+table, p{
+    font-size:20px;
+}
+footer {
+    background-color:rgb(180, 125, 233) ;
+}
+header a {
+    text-decoration:none;
+    border-radius:15px;
+}
+main h2 {
+    background-color: rgb(180, 125, 233);
+}
